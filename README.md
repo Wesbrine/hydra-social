@@ -1,39 +1,26 @@
 > [!NOTE]
-> Want to learn more about Mastodon?
-> Click below to find out more in a video.
 
 <p align="center">
-  <a style="text-decoration:none" href="https://www.youtube.com/watch?v=IPSbNdBmWKE">
-    <img alt="Mastodon hero image" src="https://github.com/user-attachments/assets/ef53f5e9-c0d8-484d-9f53-00efdebb92c3" />
+  <a style="text-decoration:none" href=" >
+    <img alt=" " src=" " />
   </a>
 </p>
 
 <p align="center">
-  <a style="text-decoration:none" href="https://github.com/mastodon/mastodon/releases">
-    <img src="https://img.shields.io/github/release/mastodon/mastodon.svg" alt="Release" /></a>
-  <a style="text-decoration:none" href="https://github.com/mastodon/mastodon/actions/workflows/test-ruby.yml">
-    <img src="https://github.com/mastodon/mastodon/actions/workflows/test-ruby.yml/badge.svg" alt="Ruby Testing" /></a>
-  <a style="text-decoration:none" href="https://crowdin.com/project/mastodon">
-    <img src="https://d322cqt584bo4o.cloudfront.net/mastodon/localized.svg" alt="Crowdin" /></a>
+  <a style="text-decoration:none" href=" ">
+    <img src=" " alt="Release" /></a>
+  <a style=" " href=" ">
+    <img src=" " alt=" " /></a>
+  <a style=" " href=" ">
+    <img SRC=" " alt=" " /></a>
 </p>
 
-Mastodon is a **free, open-source social network server** based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, and video. All Mastodon servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-Mastodon software that implements ActivityPub!)
+ is a **free, open-source social network server** based on ActivityPub where users can follow friends and discover new ones. On Mastodon, users can publish anything they want: links, pictures, text, and video. All Mastodon servers are interoperable as a federated network (users on one server can seamlessly communicate with users from another one, including non-Mastodon software that implements ActivityPub!)
 
 ## Navigation
 
-- [Project homepage 🐘](https://joinmastodon.org)
-- [Support the development via Patreon][patreon]
-- [View sponsors](https://joinmastodon.org/sponsors)
-- [Blog](https://blog.joinmastodon.org)
-- [Documentation](https://docs.joinmastodon.org)
-- [Roadmap](https://joinmastodon.org/roadmap)
-- [Official Docker image](https://github.com/mastodon/mastodon/pkgs/container/mastodon)
-- [Browse Mastodon servers](https://joinmastodon.org/communities)
-- [Browse Mastodon apps](https://joinmastodon.org/apps)
 
-[patreon]: https://www.patreon.com/mastodon
-
-## Features
+[## Features
 
 <img src="/app/javascript/images/elephant_ui_working.svg?raw=true" align="right" width="30%" />
 
@@ -100,4 +87,4 @@ with this program. If not, see https://www.gnu.org/licenses/
 
 [CONTRIBUTING]: CONTRIBUTING.md
 [DEVELOPMENT]: docs/DEVELOPMENT.md
-[OpenCollective]: https://opencollective.com/mastodon
+[OpenCollective]:
